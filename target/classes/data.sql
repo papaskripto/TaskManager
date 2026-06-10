@@ -1,0 +1,1 @@
+INSERT INTO TASKS (TASK_ID, NAME) VALUES ('01b95b29-8155-4a80-b3c0-634adfb9af9d', 'Code task manager');
